@@ -16,18 +16,42 @@ export function RecentOrderToast({ orders }: { orders: RecentOrder[] }) {
   useEffect(() => {
     if (!orders.length) return;
 
+    let hideTimeout: number | undefined;
+    let interval: number | undefined;
+
     const showToast = () => {
       setVisible(true);
-      window.setTimeout(() => {
+
+      hideTimeout = window.setTimeout(() => {
         setVisible(false);
-        setIndex((current) => (current + 1) % orders.length);
+
+        setIndex((current) => {
+          return (current + 1) % orders.length;
+        });
       }, 30_000);
     };
 
-    showToast();
-    const interval = window.setInterval(showToast, 120_000);
+    // Wait 2 minutes before showing the first toast
+    const firstToastTimeout = window.setTimeout(() => {
+      showToast();
 
-    return () => window.clearInterval(interval);
+      // After the first toast, show another every 2 minutes
+      interval = window.setInterval(() => {
+        showToast();
+      }, 120_000);
+    }, 120_000);
+
+    return () => {
+      window.clearTimeout(firstToastTimeout);
+
+      if (hideTimeout) {
+        window.clearTimeout(hideTimeout);
+      }
+
+      if (interval) {
+        window.clearInterval(interval);
+      }
+    };
   }, [orders]);
 
   if (!orders.length || !visible) return null;
@@ -36,20 +60,56 @@ export function RecentOrderToast({ orders }: { orders: RecentOrder[] }) {
 
   return (
     <div
-      className="pointer-events-none fixed left-3 top-24 z-[60] w-[min(330px,calc(100vw-1.5rem))] animate-[fadeIn_.35s_ease] rounded-2xl border border-rose-200/80 bg-white/95 p-4 shadow-2xl backdrop-blur sm:left-5 sm:top-28"
+      className="
+        pointer-events-auto
+        fixed left-3 top-24 z-[60]
+        w-[min(330px,calc(100vw-1.5rem))]
+        animate-[fadeIn_.35s_ease]
+        rounded-2xl
+        border border-rose-200/80
+        bg-white/95
+        p-4
+        pr-10
+        shadow-2xl
+        backdrop-blur
+        sm:left-5 sm:top-28
+      "
       role="status"
       aria-live="polite"
     >
+      <button
+        type="button"
+        onClick={() => setVisible(false)}
+        aria-label="Close notification"
+        className="
+          absolute right-3 top-3
+          flex h-7 w-7
+          items-center justify-center
+          rounded-full
+          text-lg font-bold
+          text-rose-950/50
+          transition
+          hover:bg-rose-100
+          hover:text-rose-950
+        "
+      >
+        ×
+      </button>
+
       <div className="flex items-start gap-3">
         <div className="mt-0.5 flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-emerald-100 text-lg">
           ✓
         </div>
+
         <div>
-          <div className="mb-1 inline-flex rounded-full bg-amber-100 px-2 py-0.5 text-[9px] font-black uppercase tracking-[0.12em] text-amber-800"></div>
-          <p className="text-sm font-extrabold text-rose-950">{order.name} just placed an order</p>
+          <p className="text-sm font-extrabold text-rose-950">
+            {order.name} just placed an order
+          </p>
+
           <p className="mt-1 text-xs leading-5 text-rose-950/70">
             {order.stack} • {order.location}
           </p>
+
           <p className="mt-1 text-[11px] font-semibold uppercase tracking-[0.08em] text-rose-700/70">
             {order.time}
           </p>

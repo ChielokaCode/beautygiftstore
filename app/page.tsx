@@ -14,13 +14,10 @@ const DEFAULT_MESSAGE =
   "Hello, I want to order the handcrafted wrist bead stack. Please help me place my order.";
 const WHATSAPP_URL = `https://wa.me/${PHONE}?text=${encodeURIComponent(DEFAULT_MESSAGE)}`;
 
-// 23-hour promo deadline based on the current Lagos time supplied for this build.
-// Update this absolute timestamp whenever you launch a new real promotion.
-const PROMO_END_AT = "2026-08-14T06:18:00+01:00";
 
 
 const recentOrders: RecentOrder[] = [
-  { name: "Chiamaka N.", location: "Lekki, Lagos", stack: "Rose Crush Stack", time: "2 minutes ago" },
+  { name: "Chiamaka N.", location: "Lekki, Lagos", stack: "Rose Crush Stack", time: "4 minutes ago" },
   { name: "Tunde A.", location: "Surulere, Lagos", stack: "Frozen Stack", time: "5 minutes ago" },
   { name: "Amarachi E.", location: "Yaba, Lagos", stack: "Crystal Tide Stack", time: "8 minutes ago" },
   { name: "Femi O.", location: "Ikeja, Lagos", stack: "Dark Royal Stack", time: "11 minutes ago" },
@@ -262,7 +259,7 @@ export default function Home() {
 
   return (
     <main className="page-frame min-h-screen overflow-hidden pb-24 md:pb-0">
-      <PromoCountdown endAt={PROMO_END_AT} />
+      <PromoCountdown />
       <RecentOrderToast orders={recentOrders} />
 
       <section className="relative overflow-hidden px-4 pb-10 pt-12 sm:px-6 lg:px-8 lg:pt-20">
