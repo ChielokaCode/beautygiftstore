@@ -768,17 +768,16 @@ I know right now you're probably wondering:
 
 *"How much are these beautiful handcrafted wrist bead stacks?"*
 
-Now, a handcrafted wrist bead stack like this can easily go for **₦70,000**.
+Now, a handcrafted wrist bead stack like this can easily go for **₦50,000**.
 
 But what if I told you...
 
-You're not paying ₦70,000.
+You're not paying ₦50,000.
 
-You're not even paying ₦50,000.
+You're not even paying ₦40,000.
 
-Not ₦40,000 either.
 
-The best part?
+**The best part?**
 
 Because of the promo running right now, this wrist bead stack is already going for just **₦35,000**.
 
@@ -862,77 +861,116 @@ Don't wait until the price goes back up and you're saying:
 
 ---
 
-### "But what if she doesn't like the design I choose?"
+### Frequently Asked Question
 
-That's why there are four different styles.
+**Who exactly is Beauty Gift Store?**
 
-You're not forced to choose one design for everybody.
+Beauty Gift Store is a gifting brand focused on beautiful, thoughtful gifts that people can actually use, wear and remember.
 
-Look at her.
-
-Look at the colours she wears.
-
-Think about her personality.
-
-Soft and simple?
-
-Frozen.
-
-Dark and bold?
-
-Dark Royal.
-
-Loves pink and feminine things?
-
-Rose Crush.
-
-Loves blue, white and classy colours?
-
-Crystal Tide.
-
-You probably know her taste better than you think.
-
-And if you're still confused...
-
-Ask yourself one question:
-
-*"Which one looks most like her?"*
-
-Start there.
+Our handcrafted wrist bead stacks are created for birthdays, anniversaries, surprises, appreciation gifts and those special moments when you want to give her something different.
 
 ---
 
-### "What if the bracelet doesn't fit?"
+**Where are you located?**
 
-This isn't a ring.
+We are based in Lagos, Nigeria, and we currently offer **FREE delivery within Lagos**.
 
-You don't need to know her ring size.
-
-You don't need to start measuring her wrist while she's sleeping. 😂
-
-The bracelets use a stretch-fit design.
-
-So there's much less stress when you're buying it as a surprise.
-
-That's one less thing to worry about.
+If you're outside Lagos, message us on WhatsApp with your location and we'll confirm the available delivery options.
 
 ---
 
-### "I've already bought her perfume before."
+**How quickly will my order arrive?**
 
-Good.
+Most Lagos orders are delivered within 1 week after your order is confirmed.
 
-Then don't buy her only perfume again.
+We'll also keep you updated on WhatsApp from the moment your order is confirmed until your package gets to you.
 
-This time, perfume is just one of the free extras.
+---
 
-The wrist stack is the main gift.
+**What happens if there's a problem with my order?**
 
-So she still gets something different...
+Message us directly on WhatsApp and we'll assist you.
 
-And she still gets perfume too.
+If your package arrives damaged or we send the wrong item, contact us within 24 hours with a photo/video and we'll arrange a replacement.
 
-Everybody wins.
+---
+
+**Are these pictures of the actual products?**
+
+The wrist bead stack designs shown on this page represent the products available for order.
+
+Because each stack is handcrafted, there may be very slight differences in arrangement or appearance from one piece to another. Some styled or lifestyle images may also be used to show how the stacks can look when worn or gifted.
+
+---
+
+**What exactly comes inside my package?**
+
+Your package includes your selected **handcrafted wrist bead stack**, plus all **4 FREE gifts** included in this promotion:
+
+🎁 Perfume  
+💄 Lip gloss  
+💅 Nail polish  
+🎀 Hair pin
+
+
+And if you're within Lagos, you also get **FREE delivery**.
+
+
+
+---
+
+### What Happens After You Order?
+
+**1. Choose Your Stack**
+
+Choose your favourite:
+
+**Frozen ❄️, Dark Royal 🖤💜, Rose Crush 💕✨ or Crystal Tide 🌊🐚.**
+
+---
+
+**2. Message Us on WhatsApp**
+
+Tell us the stack you want and the quantity you'd like to order.
+
+---
+
+**3. We Confirm Your Order**
+
+We'll confirm your order details, including your **hand size and delivery address**, so we can prepare the right fit for you.
+
+---
+
+**4. Your Gift Package Is Prepared**
+
+Your handcrafted wrist bead stack and **4 FREE gifts** are carefully prepared and packaged together.
+
+---
+
+**5. We Deliver to You**
+
+Your package is sent to your delivery address. Most Lagos orders are delivered within 1 week after your order is confirmed.
+
+---
+
+## These Stacks Are Handcrafted
+
+They're not just sitting somewhere in thousands waiting forever.
+
+Each stack is put together by hand.
+
+Bead by bead.
+
+Bracelet by bracelet.
+
+Design by design.
+
+And that's exactly why we can't take unlimited orders at once.
+
+There's only so much that can be prepared properly by hand.
+
+And there's only so long we can keep adding four free gifts and free Lagos delivery to the same promotional price.
+
 
 ---
 
@@ -970,100 +1008,9 @@ Or simply:
 
 You don't need a big reason.
 
----
-
-### "I keep telling myself I'll get it later."
-
-That's where the problem starts.
-
-Today:
-
-*"I'll order later."*
-
-Tomorrow:
-
-*"Let me first ask her which colour she likes."*
-
-Next week:
-
-*"Ah, her birthday is tomorrow!"*
-
-Then you're suddenly searching Lagos at the last minute for something to buy.
-
-Again.
-
-If you already know you need the gift...
-
-And you've already seen the design you want...
-
-There's really no advantage in waiting.
-
-Especially because this promotional offer ends tomorrow at 11:59PM.
-
-After that...
-
-The promotional price is gone.
-
-And when we say the promotional price is gone...
-
-We mean it.
-
-After tomorrow at 11:59PM, the prices go back to:
-
-**1 Wrist Stack: ₦50,000**
-
-**2 Wrist Stacks: ₦90,000**
-
-**3 Wrist Stacks: ₦130,000**
-
-So waiting until after the promotion means paying:
-
-**₦20,000 more for one stack.**
-
-**₦35,000 more for two stacks.**
-
-**₦50,000 more for three stacks.**
-
-Same beautiful handcrafted wrist stacks.
-
-Just without today's promotional price.
 
 ---
 
-## What Exactly Lands in Your Hands?
-
-With your order, you get:
-
-### **1 Handcrafted Wrist Stack**
-
-Choose from:
-
-❄️ **Frozen**
-
-🖤💜 **Dark Royal**
-
-💕✨ **Rose Crush**
-
-🌊🐚 **Crystal Tide**
-
-A complete layered set of bracelets, carefully put together with beads and matching charms.
-
-But that's not all.
-
----
-
-## You Also Get 4 Free Gifts
-
-While this promotion is still running:
-
-🎁 **A Perfume**
-🎁 **A Lip Gloss**
-🎁 **A Nail Polish**
-🎁 **A Hair Pin**
-
-Something extra she can add to her collection. And one more thing for her to discover when she opens the package.
-
----
 
 
 ## Plus Free Delivery Within Lagos
@@ -1108,7 +1055,7 @@ She's getting:
 
 A full handcrafted wrist stack.
 
-A perfume.
+Free perfume.
 
 A lip gloss.
 
@@ -1136,83 +1083,6 @@ Especially when you want the gift to feel like you actually put some thought int
 
 ---
 
-## The Promo Ends Tomorrow at 11:59PM
-
-Here's what you pay while the offer is still live:
-
-And this is where the promotion really makes a difference.
-
-Because once the offer closes, the prices return to normal.
-
-### Normal Price After the Promo:
-
-**1 Wrist Stack: ₦50,000**
-
-**2 Wrist Stacks: ₦90,000**
-
-**3 Wrist Stacks: ₦130,000**
-
-But before tomorrow at 11:59PM...
-
-You pay:
-
-**₦30,000 instead of ₦50,000 for 1 stack.**
-
-**₦55,000 instead of ₦90,000 for 2 stacks.**
-
-**₦80,000 instead of ₦130,000 for 3 stacks.**
-
-That's a saving of up to **₦50,000** just by ordering while the promotion is still running.
-
----
-
-## The More You Buy, the More You Save
-
-1 Stack:
-
-**₦30,000**
-
-Normal Price: ~~₦50,000~~
-
-**You Save ₦20,000**
-
-2 Stacks:
-
-**₦55,000**
-
-Normal Price: ~~₦90,000~~
-
-**You Save ₦35,000**
-
-3 Stacks:
-
-**₦80,000**
-
-Normal Price: ~~₦130,000~~
-
-**You Save ₦50,000**
-
-And while the promotion is live...
-
-Each stack comes with the free gifts.
-
-Plus free Lagos delivery.
-
-So if you already know you're buying for more than one person...
-
-Or you want one for yourself too...
-
-The bundle makes more sense.
-
-Because the question isn't just:
-
-*"Should I buy it?"*
-
-It's also:
-
-*"Do I want to pay today's price... or come back later and pay more?"*
-
----
 
 ## Why "I'll Buy It Later" Usually Becomes "I Forgot"
 
@@ -1262,117 +1132,6 @@ And you already have someone in mind...
 
 Don't make it harder than it needs to be.
 
----
-
-## These Stacks Are Handcrafted
-
-They're not just sitting somewhere in thousands waiting forever.
-
-Each stack is put together by hand.
-
-Bead by bead.
-
-Bracelet by bracelet.
-
-Design by design.
-
-And that's exactly why we can't take unlimited orders at once.
-
-There's only so much that can be prepared properly by hand.
-
-And there's only so long we can keep adding four free gifts and free Lagos delivery to the same promotional price.
-
----
-
-## Tobi, If You're Still Reading...
-
-You can keep thinking about what to buy her.
-
-You can ask three friends.
-
-Scroll through Instagram for another two hours.
-
-Look at cakes.
-
-Check flower prices.
-
-Consider sending money again.
-
-Then come back to the same question:
-
-*"What gift can I actually give her?"*
-
-Or...
-
-Pick the stack that reminds you of her.
-
-Place the order.
-
-And when she opens it...
-
-Let the gift do the talking.
-
----
-
-## Amaka, This One Is for You Too
-
-Your friend has probably received perfume before.
-
-Cake before.
-
-Money before.
-
-Maybe even jewellery before.
-
-But the point isn't to find something no woman in Nigeria has ever received in her life.
-
-That's impossible.
-
-The point is to give **her** something that feels like you chose it for **her.**
-
-Something that matches her colour.
-
-Her style.
-
-Her personality.
-
-Something she can put on and say:
-
-*"My friend bought this for me."*
-
-That's the difference.
-
----
-
-## And David...
-
-Your anniversary doesn't need another last-minute panic.
-
-You don't need to wait until the day before and start calling people.
-
-You don't need to ask:
-
-*"What do women even like?"*
-
-You know your woman.
-
-Choose the design that looks most like her.
-
-Frozen.
-
-Dark Royal.
-
-Rose Crush.
-
-Crystal Tide.
-
-Add your order.
-
-And surprise her.
-
-Sometimes simple is enough...
-
-When it feels thoughtful.
 
 ---
 

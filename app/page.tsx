@@ -238,24 +238,59 @@ export default function Home() {
     "utf8",
   );
 
-  const buyerMarker = "## First, Who This Letter Is Actually For";
-  const productMarker = "## Meet the Handcrafted Wrist Stack";
-  const frozenMarker = "## ❄️ Frozen";
-  const pricingMarker = "## Let's Talk About the Price";
-  const finalChoiceMarker = "## Ready to Choose Her Stack?";
+ const buyerMarker = "## First, Who This Letter Is Actually For";
+const productMarker = "## Meet the Handcrafted Wrist Stack";
+const frozenMarker = "## ❄️ Frozen";
+const pricingMarker = "## Let's Talk About the Price";
 
-  const buyerIndex = source.indexOf(buyerMarker);
-  const productIndex = source.indexOf(productMarker);
-  const frozenIndex = source.indexOf(frozenMarker);
-  const pricingIndex = source.indexOf(pricingMarker);
-  const finalChoiceIndex = source.indexOf(finalChoiceMarker);
+const faqMarker = "### Frequently Asked Question";
+const whatHappensMarker = "### What Happens After You Order?";
+const handcraftedMarker = "## These Stacks Are Handcrafted";
 
-  const heroCopy = source.slice(0, buyerIndex);
-  const buyerStory = source.slice(buyerIndex, productIndex);
-  const productIntro = source.slice(productIndex, frozenIndex);
-  const designsAndStory = source.slice(frozenIndex, pricingIndex);
-  const objectionsAndOffer = source.slice(pricingIndex, finalChoiceIndex);
-  const finalClose = source.slice(finalChoiceIndex);
+const finalChoiceMarker = "## Ready to Choose Her Stack?";
+
+const buyerIndex = source.indexOf(buyerMarker);
+const productIndex = source.indexOf(productMarker);
+const frozenIndex = source.indexOf(frozenMarker);
+const pricingIndex = source.indexOf(pricingMarker);
+
+const faqIndex = source.indexOf(faqMarker);
+const whatHappensIndex = source.indexOf(whatHappensMarker);
+const handcraftedIndex = source.indexOf(handcraftedMarker);
+
+const finalChoiceIndex = source.indexOf(finalChoiceMarker);
+
+const heroCopy = source.slice(0, buyerIndex);
+const buyerStory = source.slice(buyerIndex, productIndex);
+const productIntro = source.slice(productIndex, frozenIndex);
+const designsAndStory = source.slice(frozenIndex, pricingIndex);
+
+/* Price section stops before FAQ */
+const objectionsAndOffer = source.slice(
+  pricingIndex,
+  faqIndex
+);
+
+/* FAQ only */
+const faq = source.slice(
+  faqIndex,
+  whatHappensIndex
+);
+
+/* What Happens After You Order only */
+const whatHappens = source.slice(
+  whatHappensIndex,
+  handcraftedIndex
+);
+
+/* Everything after What Happens until Ready to Choose */
+const afterWhatHappens = source.slice(
+  handcraftedIndex,
+  finalChoiceIndex
+);
+
+/* Final closing section */
+const finalClose = source.slice(finalChoiceIndex);
 
   return (
     <main className="page-frame min-h-screen overflow-hidden pb-24 md:pb-0">
@@ -383,10 +418,42 @@ export default function Home() {
       </section>
 
       <section className="px-4 py-14 sm:px-6 lg:px-8">
-        <div className="mx-auto max-w-5xl">
-          <MarkdownBlock markdown={objectionsAndOffer} />
-        </div>
-      </section>
+
+  {/* PRICE / OFFER */}
+  <div className="mx-auto max-w-5xl">
+    <MarkdownBlock markdown={objectionsAndOffer} />
+  </div>
+
+
+
+  {/* FAQ */}
+  <div className="mx-auto mt-16 max-w-5xl">
+    <MarkdownBlock markdown={faq} />
+  </div>
+
+  {/* WHATSAPP BUTTON AFTER FAQ */}
+  <div className="mt-10 flex justify-center">
+    <WhatsAppButton label="Order Now on WhatsApp" />
+  </div>
+
+
+  {/* WHAT HAPPENS AFTER YOU ORDER */}
+  <div className="mx-auto mt-16 max-w-5xl">
+    <MarkdownBlock markdown={whatHappens} />
+  </div>
+
+  {/* WHATSAPP BUTTON AFTER ORDER PROCESS */}
+  <div className="mt-10 flex justify-center">
+    <WhatsAppButton label="Place Your Order on WhatsApp" />
+  </div>
+
+
+  {/* CONTINUE REST OF SALES COPY */}
+  <div className="mx-auto mt-16 max-w-5xl">
+    <MarkdownBlock markdown={afterWhatHappens} />
+  </div>
+
+</section>
 
       
 
