@@ -865,9 +865,7 @@ Don't wait until the price goes back up and you're saying:
 
 **Who exactly is Beauty Gift Store?**
 
-Beauty Gift Store is a gifting brand focused on beautiful, thoughtful gifts that people can actually use, wear and remember.
-
-Our handcrafted wrist bead stacks are created for birthdays, anniversaries, surprises, appreciation gifts and those special moments when you want to give her something different.
+Beauty Gift Store is a Lagos-based gifting brand specialising in handcrafted wrist bead stacks and thoughtfully selected beauty gifts. We created Beauty Gift Store to make it easier to find beautiful gifts for birthdays, anniversaries, friendships, surprises and those moments when you simply want someone to feel special
 
 ---
 
@@ -902,6 +900,19 @@ The wrist bead stack designs shown on this page represent the products available
 Because each stack is handcrafted, there may be very slight differences in arrangement or appearance from one piece to another. Some styled or lifestyle images may also be used to show how the stacks can look when worn or gifted.
 
 ---
+
+**How do I know what wrist size to order?**
+
+Don't worry if you don't know the exact wrist size. Once you place your order on WhatsApp, we'll show you a simple way to measure the wrist so we can prepare the right fit.
+
+---
+
+**How do I pay for my order?**
+
+Once your order details have been confirmed on WhatsApp, we'll send you the official Beauty Gift Store payment details. Your order will be prepared after payment is confirmed.
+
+---
+
 
 **What exactly comes inside my package?**
 
